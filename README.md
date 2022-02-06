@@ -2,7 +2,7 @@
 
 Hello there!! This project, is a simple web calculator, that allows you to make basic mathematicians operations _( + - \*/)_. It's functionality is developed with plain **Vanilla JavaScript**, using _class syntax_ to declare all of the methods needed to operate.
 
-The *Stalyn*g was developed with **CSS**, and it's inspired in the old classic calculator that maybe you, your family, friends or teachers got to used. And hopefully you will find the resemble between the real and this digital one.
+The *Styling* was developed with **CSS**, and it's inspired in the old classic calculator that maybe you, your family, friends or teachers got to used. And hopefully you will find the resemble between the real and this digital one.
 
 ## Current Functionality
 
